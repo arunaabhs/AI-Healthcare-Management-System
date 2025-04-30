@@ -54,5 +54,5 @@ Fork, improve, and submit pull requests.
 MIT License.
 
 ## Contact
-For queries, email [your-email@example.com](mailto:arunaabhs@gmail.com).
+For queries, email [arunaabhs@gmail.com](mailto:arunaabhs@gmail.com).
 
