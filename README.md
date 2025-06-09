@@ -11,6 +11,7 @@ A modern healthcare web application that leverages AI to enhance user experience
 - 🩻 **Fracture Detection** – Upload X-ray images for real-time AI-driven analysis using deep learning.  
 - 🧑‍⚕️ **Video Consultations** – Schedule and attend real-time doctor consultations.  
 - 🎨 **Modern UI/UX** – Fully responsive design with smooth transitions powered by Framer Motion.
+- 🏆 **Expert Second Opinion** – Get verified insights from top medical specialists for complex cases.
 
 ---
 
