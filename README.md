@@ -1,5 +1,7 @@
 # 🧠 AI-Powered Healthcare Platform
 
+Demo link: https://medicareapp1.netlify.app/
+
 A modern healthcare web application that leverages AI to enhance user experience and medical diagnostics. Key features include symptom checking, AI-assisted X-ray analysis for fracture detection, and live video consultations with doctors — all built with a seamless UI/UX.
 
 ---
